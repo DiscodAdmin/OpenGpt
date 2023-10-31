@@ -10,7 +10,7 @@
 const config = {
   reactStrictMode: true,
   i18n: {
-    defaultLocale: 'zh',
+    defaultLocale: 'en',
     locales: ['zh', 'en', 'zh-Hant'],
   },
 }
